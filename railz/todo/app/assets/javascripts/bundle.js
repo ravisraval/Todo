@@ -27935,7 +27935,7 @@ var App = function App() {
     _react2.default.createElement(
       'h2',
       null,
-      ' I Bless the Rains Down in Aaaafricaaa '
+      ' I Bless the Rains Down in Africa '
     ),
     _react2.default.createElement(_todo_list_container2.default, null)
   );
